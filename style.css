@@ -1,2 +1,18 @@
-.principal{background-imagem:url"(img/background.png)"; height:100vh;}
-.container_botão{background-color: blue;}
+:root{
+
+--branco-principal:white;
+--cinza-segundario;gray;
+--botão-azul:blue;
+--cord-fundo:bleck;
+}
+
+body{
+
+background-color:black;
+color:white;
+font-size:  16 px;
+font-weight:  400;
+}   
+
+.principal {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOqnR9ui8lVEpgDkuz3w0DohmJ7Aj
